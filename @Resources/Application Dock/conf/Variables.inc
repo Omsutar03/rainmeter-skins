@@ -1,0 +1,21 @@
+[Variables]
+App1Path=C:\Windows\explorer.exe
+App1Icon=C:\Users\omsut\OneDrive\Documents\Rainmeter\Skins\illustro\@Resources\Application Dock\Images\FIle_Explorer.png
+App2Path=C:\Program Files\Google\Chrome\Application\chrome.exe
+App2Icon=C:\Users\omsut\OneDrive\Documents\Rainmeter\Skins\illustro\@Resources\Application Dock\Images\Google_Chrome_icon.png
+App3Path=C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe
+App3Icon=C:\Users\omsut\OneDrive\Documents\Rainmeter\Skins\illustro\@Resources\Application Dock\Images\Brave_Browser.png
+App4Path=---
+App4Icon=---
+App5Path=C:\Program Files\Wuthering Waves\launcher.exe
+App5Icon=C:\Users\omsut\OneDrive\Documents\Rainmeter\Skins\illustro\@Resources\Application Dock\Images\Crownless.png
+App6Path=---
+App6Icon=---
+App7Path=---
+App7Icon=---
+App8Path=---
+App8Icon=---
+App9Path=---
+App9Icon=---
+App10Path=---
+App10Icon=---
