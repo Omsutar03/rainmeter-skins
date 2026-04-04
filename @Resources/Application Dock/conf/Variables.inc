@@ -20,3 +20,4 @@ App9Icon=---
 App10Path=---
 App10Icon=---
 App0Path=---
+App0Icon=---
